@@ -7,6 +7,14 @@ The first four files are the notebooks used to produce results discussed in the 
 
 Xingchen Liu, Mengqi Jia, Xin He, Zack Zang
 
+Zack Zang：Designed and conducted the unsupervised learning component, performed exploratory analysis and visualization, and summarized insights in the report.
+
+Xin He: Project idea formulation; Twitter API–based data collection; data preprocessing; report writing (introduction and dataset description) and editing.
+
+Mengqi Jia: Constructed the TF–IDF feature pipeline and trained the Logistic Regression classifier; developed the Bi-LSTM model, optimizing its architecture and assessing improvements gained through contextual sequence modeling.
+
+Xingchen Liu: Implementation and fine-tuning of BERT models; supervised learning experiments and result comparison; attention and embedding visualization; report writing
+
 ## Repository contents
 
 - `ML_Final_Project_Supervised_Learning_BERT.ipynb`  
