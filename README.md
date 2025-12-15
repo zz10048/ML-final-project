@@ -23,3 +23,6 @@ Xingchen Liu, Mengqi Jia, Xin He, Zack Zang
 
 - `Report.pdf`  
   Final project report.
+
+- `events_set1_combined_clean.tsv`
+  Cleaned dataset of HumAID
